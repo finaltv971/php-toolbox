@@ -1,16 +1,16 @@
-# Boîte à outils PHP
+# Boîte à outils 
 
-Scripts PHP et Laravel, helpers, extraiteurs et utilitaires réutilisables en tout genre pour le backend au quotidien.
+Scripts, code, helpers, extraiteurs et utilitaires réutilisables en tout genre pour le quotidien.
 
 ## Objectif
 
-Ce référentiel est une boîte à outils publique pour les développeurs qui veulent des exemples backend prêts à l'emploi ou faciles à adapter en PHP et Laravel.
+Ce référentiel est une boîte à outils publique pour les développeurs qui veulent des exemples prêts à l'emploi ou faciles à adapter a vos besoins.
 
 Il contient :
 
-- Scripts PHP autonomes
+- Scripts et exemple de code
 
-- Extraits et utilitaires Laravel
+- Extraits et utilitaires en php/js/swift/python
 
 - Fonctions d'aide
 
@@ -22,7 +22,7 @@ Il contient :
 
 - Exemples d'intégration
 
-- Modèles réutilisables pour les tâches backend communes
+- Modèles réutilisables pour les tâches backend/frontend/mobile/ai communes
 
 ## Philosophie du référentiel
 
